@@ -1,36 +1,43 @@
-# responsive-landing
-# 🚀 Responsive Landing Page
+# 🎨 Responsive Landing Page
 
-## 📌 Project Overview
-This project is a **modern, responsive landing page** designed for a hypothetical brand as part of the **OutriX Web Development Internship**.
+> A modern, mobile-first landing page for a fictional brand.
 
-The project focuses on layout design, responsiveness, and visual hierarchy commonly used in startup and product websites.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+Built as part of the **OutriX Web Development Internship**, focused on layout, responsiveness and visual hierarchy.
 
-## 🎯 Objectives
+## Sections
+
+- 🦸 Hero section with a clear value proposition
+- 🧱 Feature cards
+- 💬 Testimonials
+- 📣 Call-to-action
+- 🧭 Responsive navigation
+- 🔤 Clean typography and spacing
+
+## Objectives
+
 - Design a modern landing page
 - Apply responsive design techniques
-- Improve UI layout and spacing
-- Create reusable design components
+- Improve layout, spacing and hierarchy
+- Create reusable components
 
----
+## Run
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript  
+```bash
+git clone https://github.com/ishitarawatt/responsive-landing.git
+cd responsive-landing
+```
 
----
+Open `index.html` in your browser.
 
-## ✨ Key Features
-- Modern hero section
-- Feature cards
-- Testimonials section
-- Call-to-action (CTA)
-- Responsive navigation
-- Clean typography and spacing
+## Structure
 
----
-<img width="2535" height="1242" alt="Screenshot 2026-01-02 233133" src="https://github.com/user-attachments/assets/3130fcb7-5668-4b00-9d99-fb085ecee708" />
-<img width="2560" height="1368" alt="Screenshot 2026-01-02 233119" src="https://github.com/user-attachments/assets/39bb47e2-4095-4a9e-b9cc-f44d3c5449a7" />
+```
+responsive-landing/
+├── index.html
+├── style.css
+└── script.js
+```
